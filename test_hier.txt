@@ -1,0 +1,64 @@
+# TEST FILE for type 1 open close structure
+# this is similar to sapupconsole.log
+# Note: based on the hierarchy of the file, we have to make corresponding changes on the control files as well
+# Note: "1e" part is a simplified regex that will be used to identify the starting point
+
+1_start - level 1 title 1
+2_start - level 2 title 1
+warning test
+2_end - level 2 title 1
+2_start - level 2 title 2
+3_start - level 3 title 1
+4_start - level 4 title 1
+4_end - level 4 title 1
+3_end - level 3 title 1
+3_start - level 3 title 2
+3_end - level 3 title 2
+3_start - level 3 title 3
+3_end - level 3 title 3
+2_end - level 2 title 2
+1_end - level 1 title 1
+1_start - level 1 title 2
+warning test
+2_start - level 2 title 3
+3_start - level 3 title 4
+4_start - level 4 title 2
+warning test
+error test
+4_end - level 4 title 2
+3_end - level 3 title 4
+2_end - level 2 title 3
+1_end - level 1 title 2
+1_start - level 1 title 1
+2_start - level 2 title 1
+just some random text placeholder0
+2_end - level 2 title 1
+2_start - level 2 title 2
+3_start - level 3 title 1
+4_start - level 4 title 1
+4_end - level 4 title 1
+3_end - level 3 title 1
+3_start - level 3 title 2
+3_end - level 3 title 2
+3_start - level 3 title 3
+3_end - level 3 title 3
+2_end - level 2 title 2
+1_end - level 1 title 1
+1_start - level 1 title 2
+just some random text placeholder1
+just some random text placeholder2
+just some random text placeholder3
+just some random text placeholder4
+just some random text placeholder5
+2_start - level 2 title 3
+3_start - level 3 title 4
+4_start - level 4 title 2
+just some random text placeholder6
+just some random text placeholder7
+just some random text placeholder8
+just some random text placeholder9
+just some random text placeholder10
+4_end - level 4 title 2
+3_end - level 3 title 4
+2_end - level 2 title 3
+1_end - level 1 title 2

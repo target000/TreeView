@@ -1,0 +1,97 @@
+LVL1-Message Handling
+LVL2-Very High Processing
+LVL3-67739 - Priorities of problem messages
+LVL3-19500 - The priority of your request has been changed
+LVL2-MESON
+LVL3-83020 - What is consulting - What is support?
+LVL3-1054121 - The SAP Ecosystem in a Nutshell
+LVL2-Service Connection
+LVL3-35010 - Service connections: Composite note (overview) 
+LVL3-508140 - Customer messages - Customer logon data 
+LVL3-1276088 - Use of WebEx/Adobe Connect not permitted for remote support 
+LVL3-1178546 - No service connection: "route permission denied" 
+LVL3-1671319 - Remote logon to customer system: NDA-like dialog boxes 
+LVL3-1576685 - Remote analysis of errors in production system 
+LVL3-1773689 - How to add logon credentials securely to an incident - SAP ONE Support Launchpad (Support Portal)
+LVL3-1845010 - Use of Transaction SM59 not permitted for performing a remote support session 
+LVL3-2026090 - How to install and configure Citrix GoToAssist from the SAP ONE Support Launchpad [video]
+LVL2-Multiple issues reported, duplicate and closing messages
+LVL3-375196 - Separate message for new problem and subsequent problem 
+LVL3-50048 - Customer Message can report only ONE issue 
+LVL3-496553 - Duplicate Problem Messages 
+LVL3-1239839 - How to close a message in the SAP Service Marketplace (SMP) 
+LVL2-General
+LVL3-90835 - SAP Message Escalation Procedure 
+LVL3-36677 - Structure of components for customer messages 
+LVL3-560499 - Global Support Customer Interaction: Telephone/e-mail 
+LVL3-902492 - Solutions to be tested on customer systems 
+LVL3-52505 - Support after end of mainstream/extended maintenance 
+LVL3-2144008 - Partner Support Obligations
+LVL1-Upgrade
+LVL2-SNOTE
+LVL3-SNOTE Update
+LVL4-875986 - Note Assistant: Important notes for SAP_BASIS up to 702 
+LVL4-1668882 - Note Assistant: Important notes for SAP_BASIS 730,731,740 
+LVL4-560756 - Note Assistant Version 1.2: Important notes
+LVL4-2258238 - SAP Note Assistant: SWI Reports
+LVL4-1685578 - Problem applying a note through Snote [incorrect note status]
+LVL3-Advanced Note Search Tool
+LVL4-1818192 - FAQ: Automated Note Search Tool 
+LVL4-1778716 - Advanced Note Search Tool 
+LVL3-General
+LVL4-1629469 - Support for note problems 
+LVL4-1557768 - Note Assistant: find the notes that modify an object 
+LVL4-797001 - SAP Notes - Unable to download an SAP Note with SNOTE 
+LVL4-702436 - Note does not exist with SPAU adjustment 
+LVL4-1939285 - SCWN106 - SAP Note incomplete in transaction SNOTE or SPAU 
+LVL4-1732229 - SNOTE is locked while importing support packages or addons using SPAM/SAINT
+LVL4-1541124 - Importing of a Support Package or transporting a change request errors out: "object was repaired in this system" [R3TR ... was repaired in this system]
+LVL2-SPAM / SAINT
+LVL3-199619 - Function module does not fit in function group 
+LVL3-410128 - Function does not fit into the existing function group 
+LVL3-1732229 - SNOTE is locked while importing support packages or addons using SPAM/SAINT
+LVL3-2053132 - How to find the import conditions of a Support package or ADD-ON
+LVL3-2011192 - Uninstalling ABAP add-ons
+LVL2-JSPM
+LVL3-1589311 - Replacements of outdated tools via SL Toolset 
+LVL2-SPAU
+LVL3-702436 - Note does not exist with SPAU adjustment 
+LVL3-1939285 - SCWN106 - SAP Note incomplete in transaction SNOTE or SPAU 
+LVL3-1162149 - Archiving notes that contain correction instructions
+LVL2-General
+LVL3-1838153 - How to get the logs when getting an error during the upgrade of a NetWeaver system 
+LVL3-1589311 - Replacements of outdated tools via SL Toolset 
+LVL3-1790486 - SAP_ABA is in an undefined state that is not safe to be upgraded 
+LVL3-1674812 - Performance improvement for ACT_UPG 
+LVL3-784467 - Hunter of the lost object
+LVL3-19466 - Downloading SAP kernel patches 
+LVL3-1681435 - Upgrade NW703 to NW731 (SAP SEM 736, ERECRUIT, LSOFE) 
+LVL3-1743809 - system status of NetWeaver system is changed to SAP ECC6.0 
+LVL3-2053132 - How to find the import conditions of a Support package or ADD-ON
+LVL3-1881524 - Updating the JAVA stack in a dual stack system gives error in the phase PREP_EXTENSION/BIND_PATCH
+LVL3-1904239 - SUM options to change parameters entered in INITPUT and INITSUBST phases
+LVL3-2050604 - Problem analysis in upgrade: Phase ACT_UPG
+LVL3-1962922 - MAIN_SHDRUN/ACT_UPG: "Accept non-severe errors and repeat phase" meaning
+LVL3-1563660 - sapcontrol, user authorization issues (SUM) [Web Protected Method (password does not work).]
+LVL3-1635605 - CLIENT HANGS ON INSERT INTO TABLE WITH SECUREFILE LOB [_use_zero_copy_io issue]
+LVL3-2122939 - SAP System Data: "- See Details -" instead of installed Product Version
+LVL3-1715441 - Deploy/Undeploy/Force Redeploy EAR/WAR/SDA/SCA files on SAP servers:7.1, 7.2, 7.3, 7.4,7.5
+LVL1-Install
+LVL2-19466 - Downloading SAP kernel patches 
+LVL2-752505 - SAP System Provisioning / Installation Problems 
+LVL2-1589311 - Replacements of outdated tools via SL Toolset 
+LVL2-1797362 - Dual-Stack Split for Systems Based on SAP NetWeaver 
+LVL1-HANA
+LVL2-1809199 - troubleshooting auth issues 
+LVL2-1648962 - 2 Billion record row limit 
+LVL2-1650046 - IBM hardware admin guide 
+LVL2-1813020 - How to generate a runtime dump on SAP HANA 
+LVL2-1786918 – hdbcons high memory consumption 
+LVL2-1789828 - repairTopology 
+LVL2-1666976 - uniqueChecker 
+LVL2-1732157 – collecting support information FullSystemDump 
+LVL2-1634848 – how to setup HDB OSS connection 
+LVL2-1592925 – how to setup HDB OSS connection 
+LVL2-1758890 – Development support wants this information before escalation 
+LVL2-1787489 - SAP HANA DB performance trace 
+LVL2-1969700 - SQL script collection for HANA

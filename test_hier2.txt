@@ -1,0 +1,26 @@
+# TEST FILE for type 2 open only structure
+# this is similar to sapnote.txt
+# Note: based on the hierarchy of the file, we have to make corresponding changes on the control files as well
+# Note: "1e" part is a simplified regex that will be used to identify the starting point
+
+LVL1-  level 1 title 1
+LVL2-  level 2 title 1
+LVL3-  level 3 title 1
+LVL4-  level 4 title 1
+
+LVL1-  level 1 title 2
+
+LVL2-  level 2 title 2
+LVL2-  level 2 title 3
+LVL2-  level 2 title 4
+LVL2-  level 2 title 5
+LVL2-  level 2 title 6
+
+LVL3-  level 3 title 2
+LVL3-  level 3 title 3
+LVL3-  level 3 title 4
+
+LVL4-  level 4 title 2
+LVL4-  level 4 title 3
+
+LVL1-  level 1 title 3
